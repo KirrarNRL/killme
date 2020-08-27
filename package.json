@@ -1,0 +1,22 @@
+{
+  "name": "killme",
+  "version": "1.0.0",
+  "description": "my new thingy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirrarNRL/killme.git"
+  },
+  "author": "KirrarNRL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirrarNRL/killme/issues"
+  },
+  "homepage": "https://github.com/KirrarNRL/killme#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
